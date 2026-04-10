@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-BOT_TOKEN = "PAST YOUR BOT TOKEN"
+BOT_TOKEN = "8462187621:AAGjMHRzQ4t-2MKZNZ9qugCAAQa66joVVWw"
 
 # Global variables for rate limiting
 user_queues = {}
